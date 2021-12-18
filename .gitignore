@@ -3,8 +3,7 @@
 # except
 !.github
 !.github/**
-!deliverable-1
-!deliverable-1/**
+
 !deploy
 !deploy/**
 !frontend
@@ -15,6 +14,8 @@
 !.gitmodules
 !.terraform.lock.hcl
 !deploy.tf
+!eliverable-1
+!eliverable-1/**
 !deliverable-2
 !deliverable-2/**
 !deliverable-3
